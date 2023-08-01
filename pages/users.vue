@@ -1,3 +1,4 @@
 <template>
-  <h1>This is a users page</h1>
+  <h1>The users view</h1>
 </template>
+
