@@ -1,10 +1,7 @@
 <template>
   <div>
     <Header />
-    <header>
-      USERS SECTION
-    </header>
-    <Nuxt />
+    <nuxt/>
   </div>
 </template>
 
@@ -16,5 +13,3 @@ export default {
   }
 }
 </script>
-<style>
-</style>
